@@ -1,4 +1,6 @@
 
+Planning searches for solutions through a general measure of state novelty. When the dynamics of the problem are given through simulator engines such as the Atari games (ALE), GVGAI, or complex robotic and UaV flight simulators, novelty exploration yields state-of-the-art performance compared to known alternatives such as MCTS. Novelty exploration can be combined as well with the exploitation of goal-based heuristics within a general Best First Width Search. BFWS can solve efficiently classical planning problems even when the action model is hidden, opening exciting opportunities to model beyond declarative action representations.
+
 # Papers:
 - [ICAPS Best dissertation Award 2013](http://www.icaps-conference.org/index.php/Main/Awards) and [PhD. Thesis](https://people.eng.unimelb.edu.au/nlipovetzky/papers/aiaccess_nirlipo.pdf)
 - Classical Width Definition, Iterative Width (IW) and Serialized IW (SIW) algorithms - [ECAI12](http://people.eng.unimelb.edu.au/nlipovetzky/papers/classical-width-ecai12.pdf)
@@ -13,6 +15,7 @@
 
 # Demo Videos
 - [Youtube Atari videos](https://www.youtube.com/playlist?list=PLXpQcXUQ_CwenUazUivhXyYvjuS6KQOI0)
+
 # Simulators screenshots
 
 ![Atari](images/atari.png)
