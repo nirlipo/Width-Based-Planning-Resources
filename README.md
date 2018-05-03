@@ -3,7 +3,7 @@ Planning searches for solutions through a general measure of state novelty. When
 
 # Papers:
 
-(Disclaimer: this is not a comprehensive list. Please get in touch to add relevant work.)
+(Disclaimer: this is not a comprehensive list, please get in touch to add relevant work that has been missed)
 
 ## Classical Planning over STRIPS/PDDL
 - Classical **Width Definition**, Iterative Width (**IW**), Serialized IW (**SIW**), **SIW+**, and **DFS+** algorithms 
@@ -21,6 +21,7 @@ Planning searches for solutions through a general measure of state novelty. When
    - [A. Shleyfman, A. Tuisov, and C. Domshlak, IJCAI16](http://www.ijcai.org/Proceedings/16/Papers/460.pdf) 
    - [Y. Jinnai and A. Fukunaga, AAAI17](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14920/14194)  
    - [W. Banders, B. Bonet, H. Geffner, AAAI18](https://arxiv.org/pdf/1801.03354) 
+   
 ## MDP over Simulators
 - IW over **General Videogame** Competition (GVGAI) - [T. Geffner and H. Geffner, AAIDE15](http://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/download/11540/11350)
 
