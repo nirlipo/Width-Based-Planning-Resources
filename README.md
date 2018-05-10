@@ -26,8 +26,8 @@ Planning searches for solutions through a general measure of state novelty. When
 - IW over **General Videogame** Competition (GVGAI) - [T. Geffner and H. Geffner, AAIDE15](http://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/download/11540/11350)
 
 ## Planning over Factored Simulators in Functional STRIPS
-- BFWS with **simulators** and **Functional STRIPS** (FSTRIPS) - [G. Frances, M. Ramirez, N. Lipovetzky, and H. Geffner, IJCAI17](http://people.eng.unimelb.edu.au/nlipovetzky/papers/ijcai17-planning-with-simulators.pdf)
-- **Task and Motion** Planning - [J. Ferrer-Mestres, G. Frances, and H. Geffner, ARXIV17](https://arxiv.org/pdf/1706.06927.pdf) 
+- BFWS with **simulators** and **Functional STRIPS** (FSTRIPS) - [G. Francès, M. Ramirez, N. Lipovetzky, and H. Geffner, IJCAI17](http://people.eng.unimelb.edu.au/nlipovetzky/papers/ijcai17-planning-with-simulators.pdf)
+- **Task and Motion** Planning - [J. Ferrer-Mestres, G. Francès, and H. Geffner, ARXIV17](https://arxiv.org/pdf/1706.06927.pdf) 
 - UaV **Hybrid Control** - [M. Ramirez, M. Papasimeon, N. Lipovetzky, L. Benke, T. Miller, A. Pearce, E. Scala, M. Zamani, AAMAS18](https://people.eng.unimelb.edu.au/nlipovetzky/papers/aamas18-uav.pdf)
 - BFWS online POMDP for **Transparent Planning** - [A. MacNally, N. Lipovetzky, M. Ramirez, A. Pearce, AAMAS18](https://people.eng.unimelb.edu.au/nlipovetzky/papers/aamas18-transparent-planning.pdf)
 
