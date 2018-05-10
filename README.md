@@ -15,12 +15,12 @@ Planning searches for solutions through a general measure of state novelty. When
    - Polynomial BFWS planner  [N. Lipovetzky and H. Geffner, ICAPS17](http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-polytime-BFWS.pdf)
    - BFWS and quantified heuristic novelty measures [M. Katz, N. Lipovetzk, D. Moshkovich, A. Tuisov, ICAPS17](http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-quantified-novelty.pdf)
 
-## Classical Planning over Simulator
+## Classical Planning over Simulators
 - IW over **Atari** Simulator (ALE) 
    -  [N. Lipovetzky, M. Ramirez, and H. Geffner, IJCAI15](http://people.eng.unimelb.edu.au/nlipovetzky/papers/iw-atari-ijcai-2015.pdf)
    - [A. Shleyfman, A. Tuisov, and C. Domshlak, IJCAI16](http://www.ijcai.org/Proceedings/16/Papers/460.pdf) 
    - [Y. Jinnai and A. Fukunaga, AAAI17](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14920/14194)  
-   - [W. Banders, B. Bonet, H. Geffner, AAAI18](https://arxiv.org/pdf/1801.03354) 
+   - [W. Bandres, B. Bonet, H. Geffner, AAAI18](https://arxiv.org/pdf/1801.03354) 
    
 ## MDP over Simulators
 - IW over **General Videogame** Competition (GVGAI) - [T. Geffner and H. Geffner, AAIDE15](http://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/download/11540/11350)
