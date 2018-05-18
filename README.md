@@ -13,7 +13,7 @@ Planning searches for solutions through a general measure of state novelty. When
 
 - Best First Width Search (**BFWS**) - [N. Lipovetzky and H. Geffner, AAAI17](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14862/14161) 
    - Polynomial BFWS planner  [N. Lipovetzky and H. Geffner, ICAPS17](http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-polytime-BFWS.pdf)
-   - BFWS and quantified heuristic novelty measures [M. Katz, N. Lipovetzk, D. Moshkovich, A. Tuisov, ICAPS17](http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-quantified-novelty.pdf)
+   - BFWS and quantified heuristic novelty measures [M. Katz, N. Lipovetzky, D. Moshkovich, A. Tuisov, ICAPS17](http://people.eng.unimelb.edu.au/nlipovetzky/papers/icaps17-quantified-novelty.pdf)
 
 ## Classical Planning over Simulators
 - IW over **Atari** Simulator (ALE) 
