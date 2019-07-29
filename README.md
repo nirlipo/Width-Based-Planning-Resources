@@ -6,9 +6,9 @@ Planning searches for solutions through a general measure of state novelty. When
 (Disclaimer: this is not a comprehensive list, please get in touch to add relevant work that has been missed)
 
 # Table of Contents
-1. [Classical Planning over STRIPS/PDDL](#1-classical-planning-over-pddl)
-2. [Classical Planning over Simulators](#2-classical-planning-over-simulators)
-3. [Planning over Factored Simulators in Functional STRIPS](#3-planning-over-factored-simulators-in-functional-strips)
+1. [Classical Planning over STRIPS/PDDL](#classical-planning-over-pddl)
+2. [Classical Planning over Simulators](#classical-planning-over-simulators)
+3. [Planning over Factored Simulators in Functional STRIPS](#planning-over-factored-simulators-in-functional-strips)
 4. [MDP over Simulators](#mdp-over-simulators)
 5. [Multi Agent (Descentralisd & Privacy Preserving) Planning](#multi-agent-descentralisd-and-privacy-preserving-planning)
 
