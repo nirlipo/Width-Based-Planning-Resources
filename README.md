@@ -43,7 +43,7 @@ Factored simulators accept finite domain variables, and mixed Declarative and Pr
 
 ## Multi Agent Descentralised and Privacy Preserving Planning
  - Descentralised Best First Width Search (**MA-BFWS**) [AE Gerevini, N Lipovetzky, F Percassi, A Saetti, I Serina, ICAPS2019](https://aaai.org/ojs/index.php/ICAPS/article/view/3472/3340)
- - **Novelty Communication filtering** for Strong Privacy Preserving Planning [AE Gerevini, N Lipovetzky, N Peli, F Percassi, A Saetti, I Serina, SoCS2019] (https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18331)
+ - **Novelty Communication filtering** for Strong Privacy Preserving Planning [AE Gerevini, N Lipovetzky, N Peli, F Percassi, A Saetti, I Serina, SoCS2019](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18331)
 
 # Demo Videos
 - [Youtube Atari videos](https://www.youtube.com/playlist?list=PLXpQcXUQ_CwenUazUivhXyYvjuS6KQOI0)
