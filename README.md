@@ -5,7 +5,14 @@ Planning searches for solutions through a general measure of state novelty. When
 
 (Disclaimer: this is not a comprehensive list, please get in touch to add relevant work that has been missed)
 
-## Classical Planning over STRIPS/PDDL
+# Table of Contents
+1. [Classical Planning over STRIPS/PDDL](#1-classical-planning-over-pddl)
+2. [Classical Planning over Simulators](#2-classical-planning-over-simulators)
+3. [Planning over Factored Simulators in Functional STRIPS](#3-planning-over-factored-simulators-in-functional-strips)
+4. [MDP over Simulators](#mdp-over-simulators)
+5. [Multi Agent (Descentralisd & Privacy Preserving) Planning](#multi-agent-descentralisd-and-privacy-preserving-planning)
+
+## Classical Planning over PDDL
 - Classical **Width Definition**, Iterative Width (**IW**), Serialized IW (**SIW**), **SIW+**, and **DFS+** algorithms 
    - [N. Lipovetzky and H. Geffner, ECAI12](http://people.eng.unimelb.edu.au/nlipovetzky/papers/classical-width-ecai12.pdf)
    - [PhD. Thesis, Nir Lipovetzky, 2012](https://people.eng.unimelb.edu.au/nlipovetzky/papers/aiaccess_nirlipo.pdf), [ICAPS Best dissertation Award 2013](http://www.icaps-conference.org/index.php/Main/Awards)  
@@ -22,14 +29,21 @@ Planning searches for solutions through a general measure of state novelty. When
    - [Y. Jinnai and A. Fukunaga, AAAI17](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14920/14194)  
    - [W. Bandres, B. Bonet, H. Geffner, AAAI18](https://arxiv.org/pdf/1801.03354) 
    
-## MDP over Simulators
-- IW over **General Videogame** Competition (GVGAI) - [T. Geffner and H. Geffner, AAIDE15](http://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/download/11540/11350)
 
 ## Planning over Factored Simulators in Functional STRIPS
+Factored simulators accept finite domain variables, and mixed Declarative and Programatic (simulated) dynamics
+
 - BFWS with **simulators** and **Functional STRIPS** (FSTRIPS) - [G. Francès, M. Ramirez, N. Lipovetzky, and H. Geffner, IJCAI17](http://people.eng.unimelb.edu.au/nlipovetzky/papers/ijcai17-planning-with-simulators.pdf)
 - **Task and Motion** Planning - [J. Ferrer-Mestres, G. Francès, and H. Geffner, ARXIV17](https://arxiv.org/pdf/1706.06927.pdf) 
 - UaV **Hybrid Control** - [M. Ramirez, M. Papasimeon, N. Lipovetzky, L. Benke, T. Miller, A. Pearce, E. Scala, M. Zamani, AAMAS18](https://people.eng.unimelb.edu.au/nlipovetzky/papers/aamas18-uav.pdf)
 - BFWS online POMDP for **Transparent Planning** - [A. MacNally, N. Lipovetzky, M. Ramirez, A. Pearce, AAMAS18](https://people.eng.unimelb.edu.au/nlipovetzky/papers/aamas18-transparent-planning.pdf)
+
+## MDP over Simulators
+- IW over **General Videogame** Competition (GVGAI) - [T. Geffner and H. Geffner, AAIDE15](http://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/download/11540/11350)
+
+## Multi Agent Descentralised and Privacy Preserving Planning
+ - Descentralised Best First Width Search (**MA-BFWS**) [AE Gerevini, N Lipovetzky, F Percassi, A Saetti, I Serina, ICAPS2019](https://aaai.org/ojs/index.php/ICAPS/article/view/3472/3340)
+ - **Novelty Communication filtering** for Strong Privacy Preserving Planning [AE Gerevini, N Lipovetzky, N Peli, F Percassi, A Saetti, I Serina, SoCS2019] (https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18331)
 
 # Demo Videos
 - [Youtube Atari videos](https://www.youtube.com/playlist?list=PLXpQcXUQ_CwenUazUivhXyYvjuS6KQOI0)
